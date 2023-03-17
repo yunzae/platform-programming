@@ -1,0 +1,518 @@
+2022-12-14T07:19:31.016+09:00,zae,IdeState,Active,w11_5,Project,/Users/zae/IdeaProjects/w11_5/src/HttpClientTest.java,HttpClientTest::main,14,12,Default task
+2022-12-14T07:19:31.516+09:00,zae,Action,$Copy,w11_5,Project,/Users/zae/IdeaProjects/w11_5/src/HttpClientTest.java,HttpClientTest::main,14,12,Default task
+2022-12-14T07:19:32.019+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:33.025+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:34.027+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:35.027+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:36.032+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:37.036+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:38.040+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:39.042+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:40.043+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:41.046+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:42.051+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:43.053+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:44.055+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:45.057+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:46.061+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:47.063+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:48.065+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:19:49.066+09:00,zae,IdeState,Active,w11_5,Editor,/Users/zae/IdeaProjects/w11_5/src/HttpClientTest.java,HttpClientTest::main,6,15,Default task
+2022-12-14T07:19:50.067+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:19:51.069+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:19:51.349+09:00,zae,Action,WelcomeScreen.CreateNewProject,,,,,-1,-1,
+2022-12-14T07:19:52.069+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:19:52.861+09:00,zae,Action,EditorBackSpace,,,,,-1,-1,
+2022-12-14T07:19:53.072+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:19:54.076+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:19:55.081+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:19:56.083+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:19:57.084+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:19:58.090+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:19:59.093+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:00.097+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:00.991+09:00,zae,Action,EditorBackSpace,,,,,-1,-1,
+2022-12-14T07:20:01.098+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:01.282+09:00,zae,Action,EditorBackSpace,,,,,-1,-1,
+2022-12-14T07:20:02.098+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:03.099+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:04.100+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:05.105+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:06.109+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:07.114+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:08.114+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:09.115+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:10.118+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:11.122+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:12.126+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:13.131+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:14.131+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:15.132+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:16.132+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:17.137+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:18.139+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:19.140+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:20.142+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:21.143+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:22.143+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:23.143+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:24.147+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:25.149+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:26.150+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:27.152+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:28.157+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:29.159+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:30.160+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:31.164+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:32.165+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:33.168+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:34.172+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:35.172+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:36.175+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:37.180+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:38.180+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:39.184+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:40.189+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:41.193+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:42.198+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:43.202+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:44.206+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:45.206+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:46.211+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:47.214+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:48.214+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:20:49.215+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:20:50.217+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:20:51.217+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:20:52.222+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:53.226+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:54.227+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:20:55.245+09:00,zae,IdeState,Active,w9,Project,/Users/zae/IdeaProjects/w9/src/Main.java,,0,0,Default task
+2022-12-14T07:20:56.247+09:00,zae,IdeState,Active,w9,Project,/Users/zae/IdeaProjects/w9/src/Main.java,,0,0,Default task
+2022-12-14T07:20:57.248+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:20:58.249+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:20:59.249+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:00.250+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:01.250+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:02.255+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:03.257+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:04.260+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:05.261+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:06.262+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:07.263+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:08.264+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:09.268+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:10.273+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:11.279+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:12.283+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:13.287+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:14.290+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:15.295+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:16.298+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:17.302+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:18.306+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:19.311+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:20.316+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:21.321+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:22.321+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:23.325+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:24.328+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:25.329+09:00,zae,IdeState,Active,w9,Editor,/Users/zae/IdeaProjects/w9/src/Main.java,,4,0,Default task
+2022-12-14T07:21:26.334+09:00,zae,IdeState,Active,w9,Editor,/Users/zae/IdeaProjects/w9/src/Main.java,Main::main,1,25,Default task
+2022-12-14T07:21:27.337+09:00,zae,IdeState,Active,w9,Editor,/Users/zae/IdeaProjects/w9/src/Main.java,Main::main,1,25,Default task
+2022-12-14T07:21:28.338+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:29.342+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:30.344+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:31.344+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:32.349+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:33.352+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:34.353+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:35.356+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:36.360+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:37.364+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:38.364+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:39.364+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:40.365+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:41.368+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:42.372+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:43.372+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:44.373+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:45.374+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:46.378+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:47.379+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:48.380+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:49.380+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:50.382+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:51.386+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:52.389+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:53.392+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:54.396+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:55.396+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:21:56.399+09:00,zae,IdeState,Active,w9,Editor,/Users/zae/IdeaProjects/w9/src/Main.java,,4,1,Default task
+2022-12-14T07:21:57.401+09:00,zae,IdeState,Active,w9,Editor,/Users/zae/IdeaProjects/w9/src/Main.java,,4,1,Default task
+2022-12-14T07:21:58.401+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:21:59.278+09:00,zae,Action,WelcomeScreen.CreateNewProject,,,,,-1,-1,
+2022-12-14T07:21:59.429+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:22:00.432+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:22:01.458+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:22:02.462+09:00,zae,IdeState,NoProject,,,,,-1,-1,
+2022-12-14T07:22:03.463+09:00,zae,IdeState,Active,w11_6,Project,/Users/zae/IdeaProjects/w11_6/src/Main.java,,0,0,Default task
+2022-12-14T07:22:04.463+09:00,zae,IdeState,Active,w11_6,Project,/Users/zae/IdeaProjects/w11_6/src/Main.java,,0,0,Default task
+2022-12-14T07:22:05.464+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/Main.java,,0,19,Default task
+2022-12-14T07:22:06.465+09:00,zae,IdeState,Active,w11_6,Project,/Users/zae/IdeaProjects/w11_6/src/Main.java,,0,19,Default task
+2022-12-14T07:22:07.466+09:00,zae,IdeState,Active,w11_6,Popup,/Users/zae/IdeaProjects/w11_6/src/Main.java,,0,19,Default task
+2022-12-14T07:22:08.375+09:00,zae,Action,$Delete,w11_6,Project,/Users/zae/IdeaProjects/w11_6/src/Main.java,,0,19,Default task
+2022-12-14T07:22:08.471+09:00,zae,IdeState,Active,w11_6,Dialog,/Users/zae/IdeaProjects/w11_6/src/Main.java,,0,19,Default task
+2022-12-14T07:22:09.472+09:00,zae,IdeState,Active,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:10.331+09:00,zae,Action,NewElement,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:10.473+09:00,zae,IdeState,Active,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:11.288+09:00,zae,Action,NewClass,,,,,-1,-1,
+2022-12-14T07:22:11.478+09:00,zae,IdeState,Active,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:12.480+09:00,zae,IdeState,Active,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:13.485+09:00,zae,IdeState,Active,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:14.486+09:00,zae,IdeState,Active,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:15.489+09:00,zae,IdeState,Active,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:16.492+09:00,zae,IdeState,Active,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:17.495+09:00,zae,IdeState,Active,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:18.498+09:00,zae,IdeState,Active,w11_6,Project,,,-1,-1,Default task
+2022-12-14T07:22:19.499+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,30,Default task
+2022-12-14T07:22:20.503+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,30,Default task
+2022-12-14T07:22:21.504+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,31,Default task
+2022-12-14T07:22:21.648+09:00,zae,Action,EditorEnter,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,31,Default task
+2022-12-14T07:22:22.509+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,4,Default task
+2022-12-14T07:22:23.511+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,4,Default task
+2022-12-14T07:22:24.512+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,6,Default task
+2022-12-14T07:22:25.513+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,9,Default task
+2022-12-14T07:22:25.878+09:00,zae,Action,EditorChooseLookupItem,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,10,Default task
+2022-12-14T07:22:26.513+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,12,Default task
+2022-12-14T07:22:27.144+09:00,zae,Action,EditorChooseLookupItem,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,14,Default task
+2022-12-14T07:22:27.514+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,18,Default task
+2022-12-14T07:22:28.515+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,22,Default task
+2022-12-14T07:22:29.520+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,22,Default task
+2022-12-14T07:22:30.395+09:00,zae,Action,$Undo,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,22,Default task
+2022-12-14T07:22:30.521+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,18,Default task
+2022-12-14T07:22:31.012+09:00,zae,Action,$Undo,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,18,Default task
+2022-12-14T07:22:31.390+09:00,zae,Action,$Undo,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,14,Default task
+2022-12-14T07:22:31.522+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,11,Default task
+2022-12-14T07:22:31.762+09:00,zae,Action,EditorDeleteLine,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,11,Default task
+2022-12-14T07:22:31.938+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,1,Default task
+2022-12-14T07:22:32.524+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:33.529+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,1,Default task
+2022-12-14T07:22:33.717+09:00,zae,Action,EditorLeft,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,1,Default task
+2022-12-14T07:22:33.975+09:00,zae,Action,EditorEnter,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:34.533+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,2,0,Default task
+2022-12-14T07:22:34.847+09:00,zae,Action,EditorUp,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,2,0,Default task
+2022-12-14T07:22:35.538+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:36.027+09:00,zae,Action,MinimizeCurrentWindow,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:36.542+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:22:37.543+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:22:38.544+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:22:39.544+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:22:40.547+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:41.549+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:42.186+09:00,zae,Action,EditorPaste,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:42.554+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,5,0,Default task
+2022-12-14T07:22:43.234+09:00,zae,Action,$Undo,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,5,0,Default task
+2022-12-14T07:22:43.557+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:44.562+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:45.564+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:46.568+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:47.572+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:48.577+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:49.578+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:50.244+09:00,zae,Action,EditorMatchBrace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:50.582+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,30,Default task
+2022-12-14T07:22:51.586+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,30,Default task
+2022-12-14T07:22:51.744+09:00,zae,Action,EditorDown,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,30,Default task
+2022-12-14T07:22:52.589+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:53.590+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:54.016+09:00,zae,Action,ShowIntentionActions,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:54.592+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:54.937+09:00,zae,Action,EditorSplitLine,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:55.594+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:56.453+09:00,zae,Action,ShowIntentionActions,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:56.599+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:57.604+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:58.609+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:59.609+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:22:59.747+09:00,zae,Action,EditorSplitLine,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:00.494+09:00,zae,Action,ShowIntentionActions,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:00.610+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:01.213+09:00,zae,Action,ShowIntentionActions,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:01.611+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:02.406+09:00,zae,Action,EditorSplitLine,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:02.612+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:03.036+09:00,zae,Action,ShowIntentionActions,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:03.615+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:03.656+09:00,zae,Action,EditorDown,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:04.618+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,2,0,Default task
+2022-12-14T07:23:04.828+09:00,zae,Action,InsertLiveTemplate,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,2,0,Default task
+2022-12-14T07:23:05.619+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,2,0,Default task
+2022-12-14T07:23:06.620+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,2,3,Default task
+2022-12-14T07:23:06.971+09:00,zae,Action,EditorChooseLookupItem,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,2,4,Default task
+2022-12-14T07:23:07.622+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,3,8,Default task
+2022-12-14T07:23:08.028+09:00,zae,Action,EditorUp,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,3,8,Default task
+2022-12-14T07:23:08.397+09:00,zae,Action,EditorUp,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,8,Default task
+2022-12-14T07:23:08.626+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:08.765+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,1,0,Default task
+2022-12-14T07:23:09.111+09:00,zae,Action,EditorDown,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,31,Default task
+2022-12-14T07:23:09.494+09:00,zae,Action,EditorDown,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,1,31,Default task
+2022-12-14T07:23:09.628+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,8,Default task
+2022-12-14T07:23:10.634+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,8,Default task
+2022-12-14T07:23:11.637+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,8,Default task
+2022-12-14T07:23:12.638+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,10,Default task
+2022-12-14T07:23:13.642+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,11,Default task
+2022-12-14T07:23:14.645+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,11,Default task
+2022-12-14T07:23:15.650+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,11,Default task
+2022-12-14T07:23:16.655+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,11,Default task
+2022-12-14T07:23:16.944+09:00,zae,Action,EditorChooseLookupItem,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,11,Default task
+2022-12-14T07:23:17.176+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,24,Default task
+2022-12-14T07:23:17.330+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,23,Default task
+2022-12-14T07:23:17.474+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,22,Default task
+2022-12-14T07:23:17.606+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,21,Default task
+2022-12-14T07:23:17.657+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,20,Default task
+2022-12-14T07:23:18.658+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,20,Default task
+2022-12-14T07:23:19.661+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,22,Default task
+2022-12-14T07:23:20.665+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,24,Default task
+2022-12-14T07:23:21.666+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,25,Default task
+2022-12-14T07:23:22.670+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,25,Default task
+2022-12-14T07:23:23.732+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:24.733+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:25.737+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:26.741+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:27.745+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:28.748+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:29.752+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:30.754+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:31.759+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:32.762+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:33.762+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:34.764+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:35.765+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:36.767+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:37.771+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:38.774+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:39.777+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:40.778+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:41.779+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:42.779+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:43.779+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:44.780+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:45.783+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:46.787+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:47.790+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:48.793+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:49.793+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:50.798+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:51.800+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:52.803+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:53.806+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:54.810+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:55.814+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:56.815+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:57.820+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:58.825+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:23:59.827+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:00.828+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:01.832+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:02.834+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:03.837+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:04.841+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:05.846+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:06.850+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:07.854+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:08.858+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:09.860+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,7,0,Default task
+2022-12-14T07:24:10.753+09:00,zae,Action,EditorPaste,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,0,Default task
+2022-12-14T07:24:10.860+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,15,1,Default task
+2022-12-14T07:24:11.865+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,15,1,Default task
+2022-12-14T07:24:12.867+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,14,Default task
+2022-12-14T07:24:13.869+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,14,Default task
+2022-12-14T07:24:14.874+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,14,Default task
+2022-12-14T07:24:15.879+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,14,Default task
+2022-12-14T07:24:16.882+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,14,Default task
+2022-12-14T07:24:17.885+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,14,Default task
+2022-12-14T07:24:18.885+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,14,Default task
+2022-12-14T07:24:19.888+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,14,Default task
+2022-12-14T07:24:20.889+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:21.893+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:22.894+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:23.898+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:24.900+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:25.901+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:26.904+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:27.910+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,15,1,Default task
+2022-12-14T07:24:28.914+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,15,1,Default task
+2022-12-14T07:24:29.954+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:30.957+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:31.961+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:24:32.965+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:33.970+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:34.972+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:35.311+09:00,zae,Action,EditorSplitLine,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:35.977+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:36.979+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,19,Default task
+2022-12-14T07:24:37.221+09:00,zae,Action,$Undo,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,19,Default task
+2022-12-14T07:24:37.601+09:00,zae,Action,$Undo,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:37.981+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:38.450+09:00,zae,Action,ShowIntentionActions,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:38.986+09:00,zae,IdeState,Active,w11_6,Popup,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:39.989+09:00,zae,IdeState,Active,w11_6,Popup,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:40.994+09:00,zae,IdeState,Active,w11_6,Popup,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:41.999+09:00,zae,IdeState,Active,w11_6,Popup,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,2,18,Default task
+2022-12-14T07:24:43.000+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,1,63,Default task
+2022-12-14T07:24:44.003+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,1,63,Default task
+2022-12-14T07:24:44.017+09:00,zae,Action,ShowIntentionActions,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,1,63,Default task
+2022-12-14T07:24:45.007+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,3,63,Default task
+2022-12-14T07:24:46.010+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,15,Default task
+2022-12-14T07:24:46.679+09:00,zae,Action,ShowIntentionActions,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,15,Default task
+2022-12-14T07:24:47.012+09:00,zae,IdeState,Active,w11_6,Popup,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,15,Default task
+2022-12-14T07:24:48.016+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,6,15,Default task
+2022-12-14T07:24:49.017+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,6,8,Default task
+2022-12-14T07:24:50.017+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,7,11,Default task
+2022-12-14T07:24:51.019+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,12,Default task
+2022-12-14T07:24:52.020+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,12,Default task
+2022-12-14T07:24:53.024+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,12,Default task
+2022-12-14T07:24:54.027+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,12,Default task
+2022-12-14T07:24:55.031+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,12,Default task
+2022-12-14T07:24:56.034+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,12,Default task
+2022-12-14T07:24:57.038+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,11,24,Default task
+2022-12-14T07:24:58.044+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,11,24,Default task
+2022-12-14T07:24:59.049+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,11,24,Default task
+2022-12-14T07:25:00.053+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,17,Default task
+2022-12-14T07:25:01.056+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,17,Default task
+2022-12-14T07:25:02.059+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,17,Default task
+2022-12-14T07:25:03.060+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:25:04.061+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:25:05.063+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:25:06.067+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:25:07.073+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:25:08.076+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:25:09.079+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:25:10.082+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:25:11.087+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,15,Default task
+2022-12-14T07:25:12.092+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,15,Default task
+2022-12-14T07:25:13.094+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,15,Default task
+2022-12-14T07:25:14.095+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,15,Default task
+2022-12-14T07:25:14.489+09:00,zae,Action,EditorRight,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,15,Default task
+2022-12-14T07:25:14.755+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,16,Default task
+2022-12-14T07:25:15.102+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,37,Default task
+2022-12-14T07:25:15.449+09:00,zae,Action,EditorEnter,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,37,Default task
+2022-12-14T07:25:16.105+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:17.107+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:17.327+09:00,zae,Action,EditorRight,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:17.430+09:00,zae,Action,EditorRight,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,9,Default task
+2022-12-14T07:25:17.689+09:00,zae,Action,EditorRight,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,10,Default task
+2022-12-14T07:25:18.109+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,11,Default task
+2022-12-14T07:25:18.184+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,11,Default task
+2022-12-14T07:25:18.303+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,10,Default task
+2022-12-14T07:25:18.790+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,9,Default task
+2022-12-14T07:25:19.118+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:20.123+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:21.127+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:22.128+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:23.133+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:24.134+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:25.138+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:26.142+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:27.146+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:28.150+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:29.154+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,16,8,Default task
+2022-12-14T07:25:30.155+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,9,13,Default task
+2022-12-14T07:25:31.157+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,27,Default task
+2022-12-14T07:25:32.162+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,27,Default task
+2022-12-14T07:25:32.266+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,27,Default task
+2022-12-14T07:25:33.163+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,27,Default task
+2022-12-14T07:25:34.168+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,27,Default task
+2022-12-14T07:25:35.170+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,27,Default task
+2022-12-14T07:25:36.173+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,28,Default task
+2022-12-14T07:25:37.176+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,32,Default task
+2022-12-14T07:25:38.178+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,33,Default task
+2022-12-14T07:25:39.180+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,36,Default task
+2022-12-14T07:25:40.185+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,37,Default task
+2022-12-14T07:25:41.188+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,37,Default task
+2022-12-14T07:25:42.190+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,37,Default task
+2022-12-14T07:25:43.193+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,37,Default task
+2022-12-14T07:25:44.197+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,37,Default task
+2022-12-14T07:25:45.198+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,37,Default task
+2022-12-14T07:25:46.203+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,37,Default task
+2022-12-14T07:25:47.204+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,37,Default task
+2022-12-14T07:25:48.209+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,38,Default task
+2022-12-14T07:25:49.210+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,38,Default task
+2022-12-14T07:25:50.213+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,38,Default task
+2022-12-14T07:25:51.214+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,38,Default task
+2022-12-14T07:25:52.215+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,41,Default task
+2022-12-14T07:25:53.217+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,41,Default task
+2022-12-14T07:25:54.219+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,42,Default task
+2022-12-14T07:25:55.224+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,44,Default task
+2022-12-14T07:25:56.225+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,49,Default task
+2022-12-14T07:25:57.230+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,49,Default task
+2022-12-14T07:25:58.231+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,52,Default task
+2022-12-14T07:25:59.231+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,56,Default task
+2022-12-14T07:26:00.103+09:00,zae,Action,EditorRight,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,56,Default task
+2022-12-14T07:26:00.237+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,57,Default task
+2022-12-14T07:26:01.238+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,58,Default task
+2022-12-14T07:26:02.238+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,58,Default task
+2022-12-14T07:26:03.241+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,10,58,Default task
+2022-12-14T07:26:04.246+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,7,18,Default task
+2022-12-14T07:26:05.249+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,7,18,Default task
+2022-12-14T07:26:06.254+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,7,18,Default task
+2022-12-14T07:26:07.255+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,7,18,Default task
+2022-12-14T07:26:08.259+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,7,18,Default task
+2022-12-14T07:26:09.262+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,7,18,Default task
+2022-12-14T07:26:10.266+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,7,18,Default task
+2022-12-14T07:26:11.268+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,7,18,Default task
+2022-12-14T07:26:12.272+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,7,18,Default task
+2022-12-14T07:26:13.273+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,22,Default task
+2022-12-14T07:26:14.002+09:00,zae,Action,EditorBackSpace,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,17,Default task
+2022-12-14T07:26:14.274+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,17,Default task
+2022-12-14T07:26:15.277+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,17,Default task
+2022-12-14T07:26:16.281+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,19,Default task
+2022-12-14T07:26:17.284+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,21,Default task
+2022-12-14T07:26:18.288+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,21,Default task
+2022-12-14T07:26:19.289+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,24,Default task
+2022-12-14T07:26:20.290+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,25,Default task
+2022-12-14T07:26:21.291+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,29,Default task
+2022-12-14T07:26:22.295+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,31,Default task
+2022-12-14T07:26:23.296+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,34,Default task
+2022-12-14T07:26:24.301+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,37,Default task
+2022-12-14T07:26:25.304+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,39,Default task
+2022-12-14T07:26:25.377+09:00,zae,Action,EditorChooseLookupItem,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,39,Default task
+2022-12-14T07:26:26.307+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,43,Default task
+2022-12-14T07:26:27.310+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,45,Default task
+2022-12-14T07:26:28.311+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,48,Default task
+2022-12-14T07:26:29.312+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,49,Default task
+2022-12-14T07:26:30.314+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,53,Default task
+2022-12-14T07:26:31.219+09:00,zae,Action,EditorRight,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,57,Default task
+2022-12-14T07:26:31.315+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,58,Default task
+2022-12-14T07:26:32.318+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,59,Default task
+2022-12-14T07:26:33.321+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,15,59,Default task
+2022-12-14T07:26:34.323+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,13,Default task
+2022-12-14T07:26:35.329+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,20,Default task
+2022-12-14T07:26:36.329+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,5,20,Default task
+2022-12-14T07:26:37.330+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:38.334+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:39.338+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:40.340+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:41.343+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:42.347+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:43.348+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,13,9,Default task
+2022-12-14T07:26:43.510+09:00,zae,Action,SaveAll,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,ObjectMapperTest::main,13,9,Default task
+2022-12-14T07:26:44.349+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,17,5,Default task
+2022-12-14T07:26:45.351+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,0,Default task
+2022-12-14T07:26:46.356+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,0,Default task
+2022-12-14T07:26:47.359+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:48.362+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:49.365+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:50.366+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:51.371+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:52.373+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:53.376+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:54.380+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:55.380+09:00,zae,IdeState,Active,w11_6,Editor,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,0,Default task
+2022-12-14T07:26:56.381+09:00,zae,IdeState,Active,w11_6,Project,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,0,Default task
+2022-12-14T07:26:57.136+09:00,zae,Action,$Copy,w11_6,Project,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,0,Default task
+2022-12-14T07:26:57.382+09:00,zae,IdeState,Active,w11_6,Project,/Users/zae/IdeaProjects/w11_6/src/ObjectMapperTest.java,,0,0,Default task
+2022-12-14T07:26:58.385+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:26:59.388+09:00,zae,IdeState,Inactive,,,,,-1,-1,
+2022-12-14T07:27:00.393+09:00,zae,IdeState,Inactive,,,,,-1,-1,

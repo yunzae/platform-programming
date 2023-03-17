@@ -1,0 +1,230 @@
+2022-09-28T14:30:21.064+09:00,zae,Action,NewClass,Week4,Popup,/Users/zae/IdeaProjects/Week4/src/Employee.java,Employee::Employee,7,27,Default task
+2022-09-28T14:30:38.139+09:00,zae,Action,WelcomeScreen.CreateNewProject,,,,,-1,-1,
+2022-09-28T14:30:40.106+09:00,zae,KeyEvent,65535:16:1,,,,,-1,-1,
+2022-09-28T14:30:41.060+09:00,zae,Action,EditorBackSpace,,,,,-1,-1,
+2022-09-28T14:30:41.063+09:00,zae,KeyEvent,8:8:0,,,,,-1,-1,
+2022-09-28T14:30:41.151+09:00,zae,Action,EditorBackSpace,,,,,-1,-1,
+2022-09-28T14:30:41.160+09:00,zae,KeyEvent,8:8:0,,,,,-1,-1,
+2022-09-28T14:30:41.309+09:00,zae,Action,EditorBackSpace,,,,,-1,-1,
+2022-09-28T14:30:41.309+09:00,zae,KeyEvent,8:8:0,,,,,-1,-1,
+2022-09-28T14:30:41.495+09:00,zae,KeyEvent,65535:20:0,,,,,-1,-1,
+2022-09-28T14:30:41.556+09:00,zae,KeyEvent,65535:0:0,,,,,-1,-1,
+2022-09-28T14:30:41.631+09:00,zae,KeyEvent,65535:16:1,,,,,-1,-1,
+2022-09-28T14:30:41.780+09:00,zae,KeyEvent,87:87:1,,,,,-1,-1,
+2022-09-28T14:30:42.028+09:00,zae,KeyEvent,101:69:0,,,,,-1,-1,
+2022-09-28T14:30:42.188+09:00,zae,KeyEvent,101:69:0,,,,,-1,-1,
+2022-09-28T14:30:42.258+09:00,zae,KeyEvent,107:75:0,,,,,-1,-1,
+2022-09-28T14:30:43.641+09:00,zae,KeyEvent,52:52:0,,,,,-1,-1,
+2022-09-28T14:30:44.494+09:00,zae,KeyEvent,65535:16:1,,,,,-1,-1,
+2022-09-28T14:30:44.651+09:00,zae,KeyEvent,95:523:1,,,,,-1,-1,
+2022-09-28T14:30:46.621+09:00,zae,KeyEvent,10:10:0,,,,,-1,-1,
+2022-09-28T14:30:50.376+09:00,zae,Action,WelcomeScreen.CreateNewProject,,,,,-1,-1,
+2022-09-28T14:31:13.733+09:00,zae,KeyEvent,65535:16:1,,,,,-1,-1,
+2022-09-28T14:31:13.997+09:00,zae,KeyEvent,68:68:1,,,,,-1,-1,
+2022-09-28T14:31:14.273+09:00,zae,KeyEvent,101:69:0,,,,,-1,-1,
+2022-09-28T14:31:14.423+09:00,zae,KeyEvent,101:69:0,,,,,-1,-1,
+2022-09-28T14:31:14.493+09:00,zae,KeyEvent,112:80:0,,,,,-1,-1,
+2022-09-28T14:31:15.078+09:00,zae,KeyEvent,65535:16:1,,,,,-1,-1,
+2022-09-28T14:31:15.721+09:00,zae,KeyEvent,67:67:1,,,,,-1,-1,
+2022-09-28T14:31:16.041+09:00,zae,KeyEvent,111:79:0,,,,,-1,-1,
+2022-09-28T14:31:16.296+09:00,zae,KeyEvent,112:80:0,,,,,-1,-1,
+2022-09-28T14:31:16.482+09:00,zae,KeyEvent,121:89:0,,,,,-1,-1,
+2022-09-28T14:31:17.357+09:00,zae,KeyEvent,65535:16:1,,,,,-1,-1,
+2022-09-28T14:31:17.656+09:00,zae,KeyEvent,84:84:1,,,,,-1,-1,
+2022-09-28T14:31:17.867+09:00,zae,KeyEvent,101:69:0,,,,,-1,-1,
+2022-09-28T14:31:18.043+09:00,zae,KeyEvent,115:83:0,,,,,-1,-1,
+2022-09-28T14:31:18.179+09:00,zae,KeyEvent,116:84:0,,,,,-1,-1,
+2022-09-28T14:31:25.112+09:00,zae,Action,NewClass,DeepCopyTest,Popup,,,-1,-1,Default task
+2022-09-28T14:31:26.306+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:26.421+09:00,zae,KeyEvent,68:68:1,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:26.821+09:00,zae,KeyEvent,101:69:0,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:26.991+09:00,zae,KeyEvent,101:69:0,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:27.033+09:00,zae,KeyEvent,112:80:0,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:27.625+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:28.458+09:00,zae,KeyEvent,67:67:1,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:28.934+09:00,zae,KeyEvent,111:79:0,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:29.027+09:00,zae,KeyEvent,112:80:0,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:29.524+09:00,zae,KeyEvent,121:89:0,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:29.870+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:30.350+09:00,zae,KeyEvent,84:84:1,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:30.578+09:00,zae,KeyEvent,101:69:0,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:30.777+09:00,zae,KeyEvent,115:83:0,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:30.953+09:00,zae,KeyEvent,116:84:0,DeepCopyTest,Project,,,-1,-1,Default task
+2022-09-28T14:31:31.476+09:00,zae,KeyEvent,10:10:0,,,,,-1,-1,
+2022-09-28T14:31:38.105+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,0,0,Default task
+2022-09-28T14:31:38.231+09:00,zae,Action,EditorPaste,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,0,0,Default task
+2022-09-28T14:31:38.276+09:00,zae,KeyEvent,118:86:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,15,1,Default task
+2022-09-28T14:31:40.092+09:00,zae,Action,EditorEnter,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,15,1,Default task
+2022-09-28T14:31:40.094+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,16,0,Default task
+2022-09-28T14:31:50.155+09:00,zae,Action,NewClass,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,16,0,Default task
+2022-09-28T14:31:52.295+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Project,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,16,0,Default task
+2022-09-28T14:31:52.565+09:00,zae,KeyEvent,80:80:1,DeepCopyTest,Project,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,16,0,Default task
+2022-09-28T14:31:52.804+09:00,zae,KeyEvent,111:79:0,DeepCopyTest,Project,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,16,0,Default task
+2022-09-28T14:31:53.135+09:00,zae,KeyEvent,105:73:0,DeepCopyTest,Project,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,16,0,Default task
+2022-09-28T14:31:53.233+09:00,zae,KeyEvent,110:78:0,DeepCopyTest,Project,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,16,0,Default task
+2022-09-28T14:31:53.370+09:00,zae,KeyEvent,116:84:0,DeepCopyTest,Project,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,,16,0,Default task
+2022-09-28T14:31:55.171+09:00,zae,KeyEvent,10:10:0,,,,,-1,-1,
+2022-09-28T14:32:04.849+09:00,zae,Action,EditorEnter,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,0,20,Default task
+2022-09-28T14:32:04.853+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,1,4,Default task
+2022-09-28T14:32:04.970+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,1,4,Default task
+2022-09-28T14:32:05.190+09:00,zae,Action,EditorPaste,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,1,4,Default task
+2022-09-28T14:32:05.211+09:00,zae,KeyEvent,118:86:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,24,5,Default task
+2022-09-28T14:32:06.852+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,24,5,Default task
+2022-09-28T14:32:07.052+09:00,zae,Action,$Undo,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,24,5,Default task
+2022-09-28T14:32:07.060+09:00,zae,KeyEvent,122:90:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,1,4,Default task
+2022-09-28T14:32:07.609+09:00,zae,Action,$Undo,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,1,4,Default task
+2022-09-28T14:32:07.612+09:00,zae,KeyEvent,122:90:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,0,20,Default task
+2022-09-28T14:32:08.637+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,0,0,Default task
+2022-09-28T14:32:08.839+09:00,zae,Action,EditorPaste,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,0,0,Default task
+2022-09-28T14:32:08.857+09:00,zae,KeyEvent,118:86:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:17.743+09:00,zae,Action,NewClass,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:18.311+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:18.547+09:00,zae,KeyEvent,82:82:1,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:19.032+09:00,zae,KeyEvent,101:69:0,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:19.585+09:00,zae,KeyEvent,99:67:0,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:19.937+09:00,zae,KeyEvent,116:84:0,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:20.057+09:00,zae,KeyEvent,97:65:0,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:20.219+09:00,zae,KeyEvent,110:78:0,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:20.365+09:00,zae,KeyEvent,103:71:0,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:20.504+09:00,zae,KeyEvent,108:76:0,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:20.637+09:00,zae,KeyEvent,101:69:0,DeepCopyTest,Popup,/Users/zae/IdeaProjects/DeepCopyTest/src/Point.java,,23,1,Default task
+2022-09-28T14:32:21.498+09:00,zae,KeyEvent,10:10:0,,,,,-1,-1,
+2022-09-28T14:32:29.491+09:00,zae,Action,EditorEnter,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,0,24,Default task
+2022-09-28T14:32:29.494+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,1,4,Default task
+2022-09-28T14:32:29.742+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,1,4,Default task
+2022-09-28T14:32:29.997+09:00,zae,Action,EditorPaste,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,1,4,Default task
+2022-09-28T14:32:30.015+09:00,zae,KeyEvent,118:86:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,19,5,Default task
+2022-09-28T14:33:22.641+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,0,0,Default task
+2022-09-28T14:33:22.841+09:00,zae,Action,EditorPaste,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,0,0,Default task
+2022-09-28T14:33:22.859+09:00,zae,KeyEvent,118:86:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,18,1,Default task
+2022-09-28T14:33:29.843+09:00,zae,KeyEvent,65535:18:8,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,DeepCopyTest::main,2,30,Default task
+2022-09-28T14:33:29.988+09:00,zae,Action,ShowIntentionActions,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,DeepCopyTest::main,2,30,Default task
+2022-09-28T14:33:30.005+09:00,zae,KeyEvent,13:10:8,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/DeepCopyTest.java,DeepCopyTest::main,4,30,Default task
+2022-09-28T14:42:37.671+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,0,0,Default task
+2022-09-28T14:42:37.845+09:00,zae,Action,EditorPaste,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,0,0,Default task
+2022-09-28T14:42:37.858+09:00,zae,KeyEvent,118:86:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,33,1,Default task
+2022-09-28T14:44:20.974+09:00,zae,KeyEvent,100:68:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,32,0,Default task
+2022-09-28T14:44:21.614+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,1,1,Default task
+2022-09-28T14:44:21.768+09:00,zae,Action,$Undo,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,1,1,Default task
+2022-09-28T14:44:21.776+09:00,zae,KeyEvent,122:90:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,32,0,Default task
+2022-09-28T14:44:26.859+09:00,zae,Action,EditorEnter,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,19,0,Default task
+2022-09-28T14:44:26.862+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::moveBy,20,4,Default task
+2022-09-28T14:44:27.238+09:00,zae,KeyEvent,112:80:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,20,4,Default task
+2022-09-28T14:44:27.926+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,20,5,Default task
+2022-09-28T14:44:27.932+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,20,4,Default task
+2022-09-28T14:44:29.666+09:00,zae,KeyEvent,112:80:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,0,Default task
+2022-09-28T14:44:30.331+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,1,Default task
+2022-09-28T14:44:30.337+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,0,Default task
+2022-09-28T14:44:30.803+09:00,zae,Action,EditorTab,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,0,Default task
+2022-09-28T14:44:30.805+09:00,zae,KeyEvent,9:9:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,4,Default task
+2022-09-28T14:44:31.103+09:00,zae,KeyEvent,112:80:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,4,Default task
+2022-09-28T14:44:31.552+09:00,zae,Action,EditorChooseLookupItem,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,5,Default task
+2022-09-28T14:44:31.562+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::moveBy,12,11,Default task
+2022-09-28T14:44:32.578+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::moveBy,12,11,Default task
+2022-09-28T14:44:32.736+09:00,zae,KeyEvent,82:82:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::moveBy,12,11,Default task
+2022-09-28T14:44:33.075+09:00,zae,KeyEvent,101:69:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,12,Default task
+2022-09-28T14:44:33.437+09:00,zae,Action,EditorChooseLookupItem,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,13,Default task
+2022-09-28T14:44:33.448+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,20,Default task
+2022-09-28T14:44:34.108+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,20,Default task
+2022-09-28T14:44:34.323+09:00,zae,KeyEvent,40:519:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,20,Default task
+2022-09-28T14:44:35.307+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,21,Default task
+2022-09-28T14:44:35.549+09:00,zae,KeyEvent,82:82:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,21,Default task
+2022-09-28T14:44:35.758+09:00,zae,KeyEvent,101:69:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,22,Default task
+2022-09-28T14:44:36.056+09:00,zae,KeyEvent,99:67:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,23,Default task
+2022-09-28T14:44:36.225+09:00,zae,Action,EditorChooseLookupItem,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,24,Default task
+2022-09-28T14:44:36.234+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,30,Default task
+2022-09-28T14:44:36.908+09:00,zae,KeyEvent,32:32:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,30,Default task
+2022-09-28T14:44:37.665+09:00,zae,KeyEvent,114:82:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,31,Default task
+2022-09-28T14:44:37.728+09:00,zae,KeyEvent,101:69:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,32,Default task
+2022-09-28T14:44:38.034+09:00,zae,KeyEvent,99:67:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,33,Default task
+2022-09-28T14:44:38.319+09:00,zae,KeyEvent,116:84:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,34,Default task
+2022-09-28T14:44:38.452+09:00,zae,KeyEvent,97:65:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,35,Default task
+2022-09-28T14:44:38.622+09:00,zae,KeyEvent,110:78:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,36,Default task
+2022-09-28T14:44:38.839+09:00,zae,KeyEvent,103:71:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,37,Default task
+2022-09-28T14:44:38.931+09:00,zae,KeyEvent,108:76:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,38,Default task
+2022-09-28T14:44:39.036+09:00,zae,KeyEvent,101:69:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,39,Default task
+2022-09-28T14:44:39.516+09:00,zae,Action,EditorRight,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,40,Default task
+2022-09-28T14:44:39.517+09:00,zae,KeyEvent,65535:39:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,41,Default task
+2022-09-28T14:44:39.886+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,41,Default task
+2022-09-28T14:44:40.077+09:00,zae,KeyEvent,123:91:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,12,41,Default task
+2022-09-28T14:44:40.285+09:00,zae,Action,EditorEnter,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,12,42,Default task
+2022-09-28T14:44:40.293+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,13,8,Default task
+2022-09-28T14:44:50.993+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,23,0,Default task
+2022-09-28T14:44:50.996+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,23,0,Default task
+2022-09-28T14:44:51.373+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,23,0,Default task
+2022-09-28T14:44:51.375+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,22,4,Default task
+2022-09-28T14:44:52.293+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,22,4,Default task
+2022-09-28T14:44:52.296+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,21,4,Default task
+2022-09-28T14:46:03.984+09:00,zae,KeyEvent,120:88:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,8,Default task
+2022-09-28T14:46:04.174+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,9,Default task
+2022-09-28T14:46:04.300+09:00,zae,KeyEvent,95:523:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,9,Default task
+2022-09-28T14:46:04.508+09:00,zae,KeyEvent,49:49:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,10,Default task
+2022-09-28T14:46:05.264+09:00,zae,KeyEvent,32:32:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,11,Default task
+2022-09-28T14:46:05.476+09:00,zae,KeyEvent,61:61:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,12,Default task
+2022-09-28T14:46:05.597+09:00,zae,KeyEvent,32:32:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,13,Default task
+2022-09-28T14:46:10.913+09:00,zae,KeyEvent,114:82:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,14,Default task
+2022-09-28T14:46:10.992+09:00,zae,KeyEvent,101:69:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,15,Default task
+2022-09-28T14:46:11.572+09:00,zae,Action,EditorChooseLookupItem,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,16,Default task
+2022-09-28T14:46:11.581+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,23,Default task
+2022-09-28T14:46:12.357+09:00,zae,KeyEvent,46:46:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,23,Default task
+2022-09-28T14:46:13.883+09:00,zae,Action,EditorChooseLookupItem,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,24,Default task
+2022-09-28T14:46:13.894+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,27,Default task
+2022-09-28T14:46:14.509+09:00,zae,KeyEvent,59:59:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,27,Default task
+2022-09-28T14:46:14.748+09:00,zae,Action,EditorEnter,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,28,Default task
+2022-09-28T14:46:14.750+09:00,zae,KeyEvent,10:10:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,14,8,Default task
+2022-09-28T14:46:15.398+09:00,zae,KeyEvent,65535:16:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,8,Default task
+2022-09-28T14:46:15.636+09:00,zae,Action,EditorUpWithSelection,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,8,Default task
+2022-09-28T14:46:15.637+09:00,zae,KeyEvent,65535:38:1,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,8,Default task
+2022-09-28T14:46:16.192+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,8,Default task
+2022-09-28T14:46:16.362+09:00,zae,Action,EditorCopy,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,8,Default task
+2022-09-28T14:46:16.368+09:00,zae,KeyEvent,99:67:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,8,Default task
+2022-09-28T14:46:16.510+09:00,zae,Action,EditorDown,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,13,8,Default task
+2022-09-28T14:46:16.511+09:00,zae,KeyEvent,65535:40:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,15,5,Default task
+2022-09-28T14:46:16.985+09:00,zae,Action,EditorUp,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,,15,5,Default task
+2022-09-28T14:46:16.985+09:00,zae,KeyEvent,65535:38:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,8,Default task
+2022-09-28T14:46:17.244+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,8,Default task
+2022-09-28T14:46:17.423+09:00,zae,Action,EditorPaste,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,8,Default task
+2022-09-28T14:46:17.431+09:00,zae,KeyEvent,118:86:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,15,0,Default task
+2022-09-28T14:46:18.124+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,15,0,Default task
+2022-09-28T14:46:18.278+09:00,zae,Action,EditorPaste,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,15,0,Default task
+2022-09-28T14:46:18.285+09:00,zae,KeyEvent,118:86:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,0,Default task
+2022-09-28T14:46:18.557+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,0,Default task
+2022-09-28T14:46:18.660+09:00,zae,Action,EditorPaste,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,0,Default task
+2022-09-28T14:46:18.666+09:00,zae,KeyEvent,118:86:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,17,0,Default task
+2022-09-28T14:46:21.893+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,9,Default task
+2022-09-28T14:46:21.894+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,8,Default task
+2022-09-28T14:46:22.256+09:00,zae,KeyEvent,121:89:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,8,Default task
+2022-09-28T14:46:24.002+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,25,Default task
+2022-09-28T14:46:24.004+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,24,Default task
+2022-09-28T14:46:24.159+09:00,zae,KeyEvent,121:89:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,14,24,Default task
+2022-09-28T14:46:27.496+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,15,11,Default task
+2022-09-28T14:46:27.497+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,15,10,Default task
+2022-09-28T14:46:27.650+09:00,zae,KeyEvent,50:50:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,15,10,Default task
+2022-09-28T14:46:28.912+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,15,27,Default task
+2022-09-28T14:46:28.914+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,15,26,Default task
+2022-09-28T14:46:29.032+09:00,zae,KeyEvent,50:50:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,15,26,Default task
+2022-09-28T14:46:30.458+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,11,Default task
+2022-09-28T14:46:30.459+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,10,Default task
+2022-09-28T14:46:30.557+09:00,zae,KeyEvent,50:50:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,10,Default task
+2022-09-28T14:46:31.863+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,27,Default task
+2022-09-28T14:46:31.864+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,26,Default task
+2022-09-28T14:46:32.039+09:00,zae,KeyEvent,50:50:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,26,Default task
+2022-09-28T14:47:52.166+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,9,Default task
+2022-09-28T14:47:52.167+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,8,Default task
+2022-09-28T14:47:53.612+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,25,Default task
+2022-09-28T14:47:53.614+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,24,Default task
+2022-09-28T14:47:54.402+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,25,Default task
+2022-09-28T14:47:54.404+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,24,Default task
+2022-09-28T14:47:54.649+09:00,zae,KeyEvent,65535:20:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,24,Default task
+2022-09-28T14:47:54.706+09:00,zae,KeyEvent,65535:0:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,24,Default task
+2022-09-28T14:47:54.827+09:00,zae,KeyEvent,121:89:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,24,Default task
+2022-09-28T14:47:56.110+09:00,zae,Action,EditorBackSpace,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,9,Default task
+2022-09-28T14:47:56.111+09:00,zae,KeyEvent,8:8:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,8,Default task
+2022-09-28T14:47:56.224+09:00,zae,KeyEvent,121:89:0,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,16,8,Default task
+2022-09-28T14:48:37.645+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,10,0,Default task
+2022-09-28T14:48:37.959+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,10,0,Default task
+2022-09-28T14:48:38.207+09:00,zae,Action,$SelectAll,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,10,0,Default task
+2022-09-28T14:48:38.208+09:00,zae,KeyEvent,97:65:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::Rectangle,10,0,Default task
+2022-09-28T14:48:39.858+09:00,zae,KeyEvent,65535:157:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::moveBy,19,21,Default task
+2022-09-28T14:48:40.127+09:00,zae,Action,SaveAll,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::moveBy,19,21,Default task
+2022-09-28T14:48:40.131+09:00,zae,KeyEvent,115:83:4,DeepCopyTest,Editor,/Users/zae/IdeaProjects/DeepCopyTest/src/Rectangle.java,Rectangle::moveBy,19,21,Default task
